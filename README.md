@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MalikZ0
+- 👋 Hi, I’m Malik Kumara
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning at IIT
-- 💞️ I’m looking to collaborate on data science projects
+- 🌱 I’m currently learning at IIT(SriLanka)
+- 💯 I’m looking to collaborate on data science projects
 - 📫 How to reach me malikkumara2001@gmail.com
 
 <!---
