@@ -15,8 +15,8 @@
 
 ## Contact me
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](#)
-[![Github](https://skillicons.dev/icons?i=github)](#)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/malik-kumara-8948a2234/)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/MalikZ0/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](#)
 <!---
 MalikZ0/MalikZ0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
