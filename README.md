@@ -1,3 +1,5 @@
+## About me
+
 - 👋 Hi, I’m Malik Kumara
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning at IIT(SriLanka)
