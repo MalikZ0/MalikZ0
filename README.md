@@ -8,7 +8,7 @@
 
 ## Languages
 
-[![Langs](https://skillicons.dev/icons?i=python,java,dart,html,css,js,r,mysql,php,react,&perline=10)](https://skillicons.dev)
+[![Langs](https://skillicons.dev/icons?i=python,java,dart,html,css,js,r,mysql,php&perline=10)](https://skillicons.dev)
 
 ## Frameworks and Servers
 [![Langs](https://skillicons.dev/icons?i=react,firebase,flutterl&perline=10)](https://skillicons.dev)
