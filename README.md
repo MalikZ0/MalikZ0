@@ -8,14 +8,14 @@
 
 ## Languages
 
-[![Langs](https://skillicons.dev/icons?i=python,java,dart,css,js,r,sql&perline=7)](https://skillicons.dev)
+[![Langs](https://skillicons.dev/icons?i=python,java,dart,css,js,r,sql&perline=10)](https://skillicons.dev)
 
 ## Frameworks and Servers
-[![Langs](https://skillicons.dev/icons?i=react,firebase,flutterl&perline=7)](https://skillicons.dev)
+[![Langs](https://skillicons.dev/icons?i=react,firebase,flutterl&perline=10)](https://skillicons.dev)
 
 ## Contact me
 
-[![facebook](https://skillicons.dev/icons?i=facebook)](#)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](#)
 [![Github](https://skillicons.dev/icons?i=github)](#)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](#)
 <!---
