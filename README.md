@@ -1,6 +1,5 @@
-## Hi, I'm Malik Kumara 👋
+## Hi, I'm Malik  👋
 
-- 👋 Hi, I’m Malik
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning at IIT(SriLanka)
 - 💯 I’m looking to collaborate on data science projects
